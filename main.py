@@ -38,4 +38,4 @@ app.layout = html.Div([
 ])
 
 # Run the app
-app.run_server(port=8050)
+app.run_server(port=10000)
